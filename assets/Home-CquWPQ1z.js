@@ -1,4 +1,4 @@
-import{r as Dt,j as At,R as Ha,m as yo,L as Ao}from"./index-q_gHgAKh.js";function bo({title:i,titleId:e,...t},n){return Dt.createElement("svg",Object.assign({xmlns:"http://www.w3.org/2000/svg",fill:"none",viewBox:"0 0 24 24",strokeWidth:1.5,stroke:"currentColor","aria-hidden":"true","data-slot":"icon",ref:n,"aria-labelledby":e},t),i?Dt.createElement("title",{id:e},i):null,Dt.createElement("path",{strokeLinecap:"round",strokeLinejoin:"round",d:"M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3"}))}const Ro=Dt.forwardRef(bo);/**
+import{r as Dt,j as At,R as Ha,m as yo,L as Ao}from"./index-D5Yn477B.js";function bo({title:i,titleId:e,...t},n){return Dt.createElement("svg",Object.assign({xmlns:"http://www.w3.org/2000/svg",fill:"none",viewBox:"0 0 24 24",strokeWidth:1.5,stroke:"currentColor","aria-hidden":"true","data-slot":"icon",ref:n,"aria-labelledby":e},t),i?Dt.createElement("title",{id:e},i):null,Dt.createElement("path",{strokeLinecap:"round",strokeLinejoin:"round",d:"M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3"}))}const Ro=Dt.forwardRef(bo);/**
  * @license
  * Copyright 2010-2025 Three.js Authors
  * SPDX-License-Identifier: MIT
