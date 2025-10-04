@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* 1. Base style for light mode and default background */
+html, body {
+  /* Match the light mode side of your gradient (gray-50/white) */
+  background-color: #ffffff; 
+  transition: background-color 500ms ease; 
+  margin: 0;
+  padding: 0;
+}
+
+/* 2. Dark Mode style to fix the overscroll flash */
+.dark {
+  /* 🔑 FIX: Use the hex code for gray-900 to match your app's dark background */
+  background-color: #000000; 
+}
