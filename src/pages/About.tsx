@@ -162,7 +162,7 @@ const About: React.FC = () => {
             View My Work
           </Link>
           <a
-            href="/resume/vijay_resume.pdf" // TODO: Update with the actual path to your resume
+            href="/vijay-portfolio/resume/vijay_resume.pdf" // TODO: Update with the actual path to your resume
             download
             className="inline-flex items-center px-6 py-3 bg-gray-700 text-white font-semibold rounded-lg shadow-md hover:bg-gray-800 transition-all duration-300 transform hover:scale-105"
           >
